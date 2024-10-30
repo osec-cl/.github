@@ -12,5 +12,5 @@ Tenemos distintos proyectos actualmente, en diferentes estados de desarrollo:
 
 - [Pagina web](https://github.com/osec-cl/website) \
    La página web de OSEC.
-- [Python principiante](https://github.com/osec-cl/python-principiante) \
-   Proyecto USACH con contenidos de Introducción/Fundamentos para la Programación.
+- [Tutorías](https://github.com/osec-cl/tutorias) \
+   Material de enseñanza para miembros de la comunidad Open Source.
